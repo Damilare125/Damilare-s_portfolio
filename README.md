@@ -21,6 +21,7 @@ Developed a recommender system model using **Python**. The data used for this pr
 
 ![Recommender system](/images/download3.png)
 
+
 ### Salary prediction model
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Machine_learning_project_1.ipynb)
 
@@ -34,6 +35,8 @@ A predictive **Machine Learning** model was built using **Python pipeline** and 
 Sentiment analysis was perfomed. A **Machine Learning** model was built to predict if a review is positive or negative. A **wordcloud** was created showing the words/phrases commonly associated with each of the skincare products. Also the insight of the skincare products dataset was well explore.
 
 ![Common words](/images/download1.png)
+
+![](/images/download6.png)
 
 ### Data gathering
 [Publication](https://github.com/Mealygroup/data-science/blob/main/Data%20Gathering.....ipynb)
