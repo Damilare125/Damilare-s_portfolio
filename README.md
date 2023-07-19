@@ -4,7 +4,7 @@
 
 ## Education
 - PGDE, Educational Foundation | Tai-solarin University of Education (_May 2023_)
-- Bsc(ed), Chemistry | Tai-solarin University of Education (_May 2017_)
+- BSc(ed), Chemistry | Tai-solarin University of Education (_May 2017_)
 
 ## Work Experience
 **Data science intern @ Stutern (_Jan 2023 - Present_)**
