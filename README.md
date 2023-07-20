@@ -1,8 +1,12 @@
 # Data Scientist
 
-### Technical skills: Python, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling
+## Professional summary
+As a proven and passionate data scientist, I have experience in developing and implementing recommender system models, predictive models, conducting statistical analyses, and creating visualizations to communicate structured and unstructured data insight. I'm always open to new ideas and ways I can improve, and become more expert in this career.
+
+## Technical skills: Python, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Beautiful soup, Data visualization
 
 ## Education
+- Certicate, Data science | Stutern Graduate Accelerator (_April 2023_)
 - PGDE, Educational Foundation | Tai-solarin University of Education (_May 2023_)
 - BSc(ed), Chemistry | Tai-solarin University of Education (_May 2017_)
 
@@ -48,6 +52,6 @@ Sythentic data was generated using the **python libraries**. The data was genera
 ### Project 5: IBM Employee Attribution
 [Publication](https://github.com/Damilare125/EDA-PROJECT/blob/main/IBM_Employee_Attribution.ipynb)
 
-Exploration data analysis was performed. The insight of the attrition dataset was well explore.
+I analysed and derived insight from attrition data. Exploration data analysis was performed, and the insight of the attrition dataset was well explore.
 
 ![Attrition](/images/download2.png)
