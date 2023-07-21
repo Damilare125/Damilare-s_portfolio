@@ -11,7 +11,7 @@ As a proven and passionate data scientist, I have experience in developing and i
 - BSc(ed), Chemistry | Tai-solarin University of Education (_May 2017_)
 
 ## Work Experience
-**Data science intern @ Stutern (_Jan 2023 - Present_)**
+**Data science intern @ Stutern (_May 2023 - Present_)**
 - Built a recommendation system model for a meal app.
 - The model built was deployed using FLASKAPI.
 - Built a salary prediction model.
