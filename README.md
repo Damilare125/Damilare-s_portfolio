@@ -8,17 +8,17 @@ As a junior and passionate data scientist with a year of experience, I have expe
 ## Education
 - Certicate, Data science | Stutern Graduate Accelerator (_August 2023_)
 - PGDE, Educational Foundation | Tai-solarin University of Education (_May 2023_)
-- BSc(ed), Chemistry | Tai-solarin University of Education (_May 2017_)
+- BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2017_)
 
 ## Work Experience
+**Data science Intern (_Remote_) @ Ignitus LMS (_August 2023 - Present_)**
+- Working on a project whose ultimate objective is to produce a marketable e-learning product.
+
 **Data science Intern (_Remote_) @ Stutern (_July 2023 - Present_)**
 - Built a recommendation system model for a meal app.
 - The model built was deployed using FLASKAPI.
 - Built a salary prediction model.
 - Did a sentiment analysis on a skincare product review.
-
-**Data science Intern (_Remote_) @ Ignitus LMS (_August 2023 - Present_)**
-- Working on a project whose ultimate objective is to produce a marketable e-learning product.
 
 ## Projects
 ### Project 1: Meal recommender system
