@@ -39,7 +39,7 @@ A predictive **Machine Learning** model was built using **Python pipeline** and 
 ### Project 3: Skincare products EDA and Sentiment Analysis
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Exploratory_Data_Analysis_and_Sentiment_Analysis_For_Text_Data.ipynb)
 
-Sentiment analysis was perfomed. A **Machine Learning** model was built to predict if a review is positive or negative. A **wordcloud** was created showing the words/phrases commonly associated with each of the skincare products. Also the insight of the skincare products dataset was well explore.
+Sentiment analysis was perfomed. A **Machine Learning** model was built to predict if a review is positive or negative. A **wordcloud** was created showing the words/phrases commonly associated with each of the skincare products. Also, the insight of the skincare products dataset was well explored.
 
 ![Common words](/images/download1.png)
 
@@ -48,20 +48,20 @@ Sentiment analysis was perfomed. A **Machine Learning** model was built to predi
 ### Project 4: Data gathering
 [Publication](https://github.com/Mealygroup/data-science/blob/main/Data%20Gathering.....ipynb)
 
-Sythentic data was generated using the **python libraries**. The data was generated for the purpose of building a recommender system model for an app and the purpose was well fulfiled.
+Synthetic data was generated using the **python libraries**. The data was generated to build a recommender system model for an app and the purpose was well fulfilled.
 
 ![](/images/download4.png)
 
 ### Project 5: IBM Employee Attribution
 [Publication](https://github.com/Damilare125/EDA-PROJECT/blob/main/IBM_Employee_Attribution.ipynb)
 
-I analysed and derived insight from attrition data. Exploration data analysis was performed, and the insight of the attrition dataset was well explore.
+I analyzed and derived insight from attrition data. Exploration data analysis was performed, and the insight of the attrition dataset was well explored.
 
 ![Attrition](/images/download2.png)
 
 ### Project 6: Precision Farming for Best Product Results
 [Publication](https://github.com/Damilare125/Kluster)
 
-A machine learning model was built to predict when a crop should be plant and harvest.
+A machine learning model was built to predict when a crop should be planted and harvested.
 
-![]()
+![](/images/download8.png)
