@@ -1,9 +1,9 @@
 # Data Scientist
 
 ## Professional summary
-As a junior and passionate data scientist with a year of experience, I have experience in developing and implementing recommender system models, predictive models, conducting statistical analyses, and creating visualizations to communicate structured and unstructured data insight. I'm always open to new ideas and ways I can improve, and become more expert in this career.
+As a junior and passionate data scientist with over a year of experience, I have experience in developing and implementing recommender system models, predictive models, conducting statistical analyses, and creating visualizations to communicate structured and unstructured data insight. I'm always open to new ideas and ways I can improve, and become more expert in this career.
 
-## Technical skills: Python, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful soup, Data visualization
+## Technical skills: Python, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization
 
 ## Education
 - Certicate, Data science | Stutern Graduate Accelerator (_August 2023_)
@@ -11,10 +11,10 @@ As a junior and passionate data scientist with a year of experience, I have expe
 - BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2017_)
 
 ## Work Experience
-**Data science Intern (_Remote_) @ Ignitus LMS (_August 2023 - Present_)**
-- Working on a project whose ultimate objective is to produce a marketable e-learning product.
+**Data Science Intern (_Remote_) @ Ignitus LMS (_August 2023 - Present_)**
+- Worked on a project whose ultimate objective is to produce a marketable e-learning product.
 
-**Data science Intern (_Remote_) @ Stutern (_July 2023 - Present_)**
+**Data Science Intern (_Remote_) @ Stutern (_July 2023 - Present_)**
 - Built a recommendation system model for a meal app.
 - The model built was deployed using FLASKAPI.
 - Built a salary prediction model.
@@ -58,3 +58,10 @@ Sythentic data was generated using the **python libraries**. The data was genera
 I analysed and derived insight from attrition data. Exploration data analysis was performed, and the insight of the attrition dataset was well explore.
 
 ![Attrition](/images/download2.png)
+
+### Project 6: Precision Farming for Best Product Results
+[Publication](https://github.com/Damilare125/Kluster)
+
+A machine learning model was built to predict when a crop should be plant and harvest.
+
+![]()
