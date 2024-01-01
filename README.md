@@ -11,10 +11,10 @@ As a junior and passionate data scientist with over a year of experience, I have
 - BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2017_)
 
 ## Work Experience
-**Data Science Intern (_Remote_) @ Ignitus LMS (_August 2023 - Present_)**
+**Data Science Intern (_Remote_) @ Ignitus LMS (_August 2023 - December 2023_)**
 - Worked on a project whose ultimate objective is to produce a marketable e-learning product.
 
-**Data Science Intern (_Remote_) @ Stutern (_July 2023 - Present_)**
+**Data Science Intern (_Remote_) @ Stutern (_July 2023 - October 2023_)**
 - Built a recommendation system model for a meal app.
 - The model built was deployed using FLASKAPI.
 - Built a salary prediction model.
