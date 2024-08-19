@@ -3,10 +3,12 @@
 ## Professional Summary
 As a junior and passionate data scientist with over a year of experience, I have experience in developing and implementing recommender system models, and predictive models, conducting statistical analyses, and creating visualizations to communicate structured and unstructured data insight. I'm always open to new ideas and ways I can improve, and become more expert in this career.
 
-## Technical skills: Python, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization
+## Technical skills: Python, R, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization
 
 ## Education
-- Certicate, Data science | Stutern Graduate Accelerator (_August 2023_)
+- Certificate, Data Science | Data Techcon Academy (_November 2024_)
+- MSc, Data Science | University of Gloucestershire (_January 2025_)
+- Certificate, Data science | Stutern Graduate Accelerator (_August 2023_)
 - PGDE, Educational Foundation | Tai-solarin University of Education (_May 2023_)
 - BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2017_)
 
