@@ -27,7 +27,7 @@ As a junior and passionate data scientist with over a year of experience, I have
 
 Developed 5 different machine learning and neural network models where the insight of the dataset was obtained, clustering and the correlation of the variables in the dataset were also observed then optimization was performed on the machine learning models. 
 
-![Machine Learning and Optimization](/Screenshot8.png)
+![Machine Learning and Optimization](/Screenshot(8).png)
 
 ### Project 2: Meal recommender system
 [Publication](https://github.com/Mealygroup/data-science)
