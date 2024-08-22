@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Professional Summary
-As a junior and passionate data scientist with over a year of experience, I have experience in developing and implementing recommender system models, and predictive models, conducting statistical analyses, and creating visualizations to communicate structured and unstructured data insight. I'm always open to new ideas and ways I can improve, and become more expert in this career.
+As a passionate data scientist with 2 years of experience, I have experience in developing and implementing recommender system models, predictive models, and deep learning models also in conducting statistical analyses and creating visualizations to communicate structured and unstructured data insight. I'm always open to new ideas and ways I can improve, and become more expert in this career.
 
 ## Technical skills: Python, R, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization
 
@@ -13,6 +13,10 @@ As a junior and passionate data scientist with over a year of experience, I have
 - BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2017_)
 
 ## Work Experience
+**Data Science Intern (_Hybrid_) @ Oktee Limited (_December 2023 - Present_)
+- Utilized web scraping techniques to collect and process large datasets from various online sources efficiently.
+- Designed and implemented a recommender system model to enhance shopping efficiency, improving user experience and personalization.
+
 **Data Science Intern (_Remote_) @ Ignitus LMS (_August 2023 - December 2023_)**
 - Worked on a project whose ultimate objective is to produce a marketable e-learning product.
 
