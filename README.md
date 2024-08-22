@@ -23,28 +23,34 @@ As a junior and passionate data scientist with over a year of experience, I have
 - Did a sentiment analysis on a skincare product review.
 
 ## Projects
-### Project 1: Meal recommender system
+### Project 1: Machine Learning and Optimization
+
+Developed 5 different machine learning and neural network models where the insight of the dataset was obtained, clustering and the correlation of the variables in the dataset were also observed then optimization was performed on the machine learning models. 
+
+![Machine Learning and Optimization](Screenshot%20(8).png)
+
+### Project 2: Meal recommender system
 [Publication](https://github.com/Mealygroup/data-science)
 
 Developed a recommender system model using **Python**. The data used for this project was generated using **Python modules** and the model built recommends food for the app users. The model was deployed as an API using Flask API.
 
 ![Recommender system](/images/download3.png)
 
-### Project 2: Precision Farming for Best Product Results
+### Project 3: Precision Farming for Best Product Results
 [Publication](https://github.com/Damilare125/Kluster)
 
 A machine learning model was built to predict when a crop should be planted and harvested.
 
 ![](/images/download8.png)
 
-### Project 3: Salary prediction model
+### Project 4: Salary prediction model
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Machine_learning_project_1.ipynb)
 
 A predictive **Machine Learning** model was built using **Python pipeline** and **Python algorithms**. The model predicts employees earning more than 50,000 in a company.
 
 ![Classification report of metrics](/images/download5.png)
 
-### Project 4: Skincare Products EDA and Sentiment Analysis
+### Project 5: Skincare Products EDA and Sentiment Analysis
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Exploratory_Data_Analysis_and_Sentiment_Analysis_For_Text_Data.ipynb)
 
 Sentiment analysis was performed. A **Machine Learning** model was built to predict if a review is positive or negative. A **word cloud** was created showing the words/phrases commonly associated with each of the skincare products. Also, the insight of the skincare products dataset was well explored.
@@ -53,14 +59,14 @@ Sentiment analysis was performed. A **Machine Learning** model was built to pred
 
 ![](/images/download6.png)
 
-### Project 5: Data gathering
+### Project 6: Data gathering
 [Publication](https://github.com/Mealygroup/data-science/blob/main/Data%20Gathering.....ipynb)
 
 Synthetic data was generated using the **python libraries**. The data was generated to build a recommender system model for an app and the purpose was well fulfilled.
 
 ![](/images/download4.png)
 
-### Project 6: IBM Employee Attribution
+### Project 7: IBM Employee Attribution
 [Publication](https://github.com/Damilare125/EDA-PROJECT/blob/main/IBM_Employee_Attribution.ipynb)
 
 I analyzed and derived insight from attrition data. Exploration data analysis was performed, and the insight of the attrition dataset was well explored.
