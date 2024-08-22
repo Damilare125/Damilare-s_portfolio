@@ -24,6 +24,7 @@ As a junior and passionate data scientist with over a year of experience, I have
 
 ## Projects
 ### Project 1: Machine Learning and Optimization
+[Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Machine%20learning%20and%20optimization.ipynb)
 
 Developed 5 different machine learning and neural network models where the insight of the dataset was obtained, clustering and the correlation of the variables in the dataset were also observed, and then optimization was performed on the machine learning models. 
 
