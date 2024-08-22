@@ -13,7 +13,7 @@ As a passionate data scientist with 2 years of experience, I have experience in 
 - BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2017_)
 
 ## Work Experience
-**Data Science Intern (_Hybrid_) @ Oktee Limited (_December 2023 - Present_)
+**Data Science Intern (_Hybrid_) @ Oktee Limited (_December 2023 - Present_)**
 - Utilized web scraping techniques to collect and process large datasets from various online sources efficiently.
 - Designed and implemented a recommender system model to enhance shopping efficiency, improving user experience and personalization.
 
