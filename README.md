@@ -6,7 +6,7 @@ As a passionate data scientist with 2 years of experience, I have experience dev
 ## Technical skills: Python, R, EXCEL, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization, Sentiment Analysis
 
 ## Education
-- Certificate, Data Science | Data Techcon Academy (_November 2024_)
+- Certificate, Data Analytics Training | Data Techcon Academy (_November 2024_)
 - MSc, Data Science | University of Gloucestershire (_January 2025_)
 - Certificate, Data science | Stutern Graduate Accelerator (_August 2023_)
 - PGDE, Educational Foundation | Tai-solarin University of Education (_May 2023_)
