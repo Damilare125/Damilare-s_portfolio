@@ -1,9 +1,9 @@
-# Data Scientist
+# Data Scientist/Analyst
 
 ## Professional Summary
 As a passionate data scientist with 2 years of experience, I have experience developing and implementing recommender system models, predictive models, and deep learning models I also conduct statistical analyses, sentiment analysis, and create visualizations to communicate structured and unstructured data insight. I'm always open to new ideas and ways I can improve, and become more expert in this career.
 
-## Technical skills: Python, R, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization, Sentiment Analysis
+## Technical skills: Python, R, EXCEL, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization, Sentiment Analysis
 
 ## Education
 - Certificate, Data Science | Data Techcon Academy (_November 2024_)
