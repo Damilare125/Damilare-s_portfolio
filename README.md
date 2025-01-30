@@ -29,9 +29,9 @@ As a passionate data scientist with 2 years of experience, I have experience dev
 ## Projects
 ### Project 1: Sales Growth Through Sentiment Analysis
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Amazon_sentiment_new.ipynb)
-The sentiments of the India Amazon customer reviews were gotten and machine learning models were built and optimized for better accuracy. EDA was performed which got different insights on the products and evaluation method was used to get the performance of the models.
+The sentiments of the India Amazon customer reviews were gotten and machine learning models were built and optimized for better accuracy. EDA was performed which got different insights on the products and an evaluation method was used to get the performance of the models.
 
-![Research poster]()
+![Research poster](https://github.com/Damilare125/Damilare-s_portfolio/blob/main/images/S4327383%20(1).pdf)
 
 ### Project 2: Machine Learning and Optimization
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Machine%20learning%20and%20optimization.ipynb)
