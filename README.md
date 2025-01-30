@@ -6,28 +6,34 @@ As a passionate data scientist with 2 years of experience, I have experience dev
 ## Technical skills: Python, R, EXCEL, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization, Sentiment Analysis
 
 ## Education
-- Certificate, Data Analytics Training | Data Techcon Academy (_November 2024_)
+- Certificate, Data Analytics Training | Data Techcon Academy (_December 2024_)
 - MSc, Data Science | University of Gloucestershire (_January 2025_)
 - Certificate, Data science | Stutern Graduate Accelerator (_August 2023_)
 - PGDE, Educational Foundation | Tai-solarin University of Education (_May 2023_)
 - BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2017_)
 
 ## Work Experience
-**Data Science Intern (_Hybrid_) @ Oktee Limited (_December 2023 - Present_)**
+**Data Science Intern (_Hybrid_) @ Oktee Limited (_December 2023 - December 2024)**
 - Utilized web scraping techniques to collect and process large datasets from various online sources efficiently.
 - Designed and implemented a recommender system model to enhance shopping efficiency, improving user experience and personalization.
 
 **Data Science Intern (_Remote_) @ Ignitus LMS (_August 2023 - December 2023_)**
 - Worked on a project whose ultimate objective is to produce a marketable e-learning product.
 
-**Data Science Intern (_Remote_) @ Stutern (_July 2023 - October 2023_)**
+**Data Science Intern (_Remote_) @ Stutern (_July 2023 - December 2023_)**
 - Built a recommendation system model for a meal app.
 - The model built was deployed using FLASKAPI.
 - Built a salary prediction model.
 - Did a sentiment analysis on a skincare product review.
 
 ## Projects
-### Project 1: Machine Learning and Optimization
+### Project 1: Sales Growth Through Sentiment Analysis
+[Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Amazon_sentiment_new.ipynb)
+The sentiments of the India Amazon customer reviews were gotten and machine learning models were built and optimized for better accuracy. EDA was performed which got different insights on the products and evaluation method was used to get the performance of the models.
+
+![Research poster]()
+
+### Project 2: Machine Learning and Optimization
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Machine%20learning%20and%20optimization.ipynb)
 
 Developed 5 different machine learning and neural network models where the insight of the dataset was obtained, clustering and the correlation of the variables in the dataset were also observed, and then optimization was performed on the machine learning models. 
