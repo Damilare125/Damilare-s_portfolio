@@ -10,7 +10,7 @@ As a passionate data scientist with 2 years of experience, I have experience dev
 - MSc, Data Science | University of Gloucestershire (_January 2025_)
 - Certificate, Data science | Stutern Graduate Accelerator (_August 2023_)
 - PGDE, Educational Foundation | Tai-solarin University of Education (_May 2023_)
-- BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2017_)
+- BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2018_)
 
 ## Work Experience
 **Data Science Intern (_Hybrid_) @ Oktee Limited (_December 2023 - December 2024)**
