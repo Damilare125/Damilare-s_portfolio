@@ -1,7 +1,7 @@
 # Data Scientist/Analyst
 
 ## Professional Summary
-As a passionate data scientist with 2 years of experience, I have experience developing and implementing recommender system models, predictive models, and deep learning models I also conduct statistical analyses, sentiment analysis, and create visualizations to communicate structured and unstructured data insight. I'm always open to new ideas and ways I can improve, and become more expert in this career.
+Data Science professional with a proven track record of leveraging data and analytics to enable informed decision-making, drive strategic business improvements, and manage impactful project engagements. Proficient in synthesizing complex datasets to uncover critical customer insights and identify trends, I excel in transforming structured and unstructured data into actionable insights that influence strategic directions. My expertise lies in building predictive models, deep learning solutions, recommender systems, and conducting statistical and sentiment analyses. Adept at crafting clear and impactful data visualizations, I ensure that complex analytical concepts are effectively communicated to diverse stakeholders, fostering alignment and understanding across organizational levels. Dedicated to ongoing learning and professional development, I continuously explore new tools and methodologies to enhance my capabilities and contribute to my team's success.
 
 ## Technical skills: Python, R, EXCEL, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization, Sentiment Analysis
 
