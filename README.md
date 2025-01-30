@@ -31,7 +31,7 @@ As a passionate data scientist with 2 years of experience, I have experience dev
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Amazon_sentiment_new.ipynb)
 The sentiments of the India Amazon customer reviews were gotten and machine learning models were built and optimized for better accuracy. EDA was performed which got different insights on the products and an evaluation method was used to get the performance of the models.
 
-![Research poster](https://github.com/Damilare125/Damilare-s_portfolio/blob/main/images/S4327383%20(1).pdf)
+![Research poster](/images/Screenshot%202025-01-30%20at%2009.51.16.png)
 
 ### Project 2: Machine Learning and Optimization
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Machine%20learning%20and%20optimization.ipynb)
@@ -40,28 +40,28 @@ Developed 5 different machine learning and neural network models where the insig
 
 ![](/images/machine.png)
 
-### Project 2: Meal recommender system
+### Project 3: Meal recommender system
 [Publication](https://github.com/Mealygroup/data-science)
 
 Developed a recommender system model using **Python**. The data used for this project was generated using **Python modules** and the model built recommends food for the app users. The model was deployed as an API using Flask API.
 
 ![Recommender system](/images/download3.png)
 
-### Project 3: Precision Farming for Best Product Results
+### Project 4: Precision Farming for Best Product Results
 [Publication](https://github.com/Damilare125/Kluster)
 
 A machine learning model was built to predict when a crop should be planted and harvested.
 
 ![](/images/download8.png)
 
-### Project 4: Salary prediction model
+### Project 5: Salary prediction model
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Machine_learning_project_1.ipynb)
 
 A predictive **Machine Learning** model was built using **Python pipeline** and **Python algorithms**. The model predicts employees earning more than 50,000 in a company.
 
 ![Classification report of metrics](/images/download5.png)
 
-### Project 5: Skincare Products EDA and Sentiment Analysis
+### Project 6: Skincare Products EDA and Sentiment Analysis
 [Publication](https://github.com/Damilare125/Machine_learning_project/blob/main/Exploratory_Data_Analysis_and_Sentiment_Analysis_For_Text_Data.ipynb)
 
 Sentiment analysis was performed. A **Machine Learning** model was built to predict if a review is positive or negative. A **word cloud** was created showing the words/phrases commonly associated with each of the skincare products. Also, the insight of the skincare products dataset was well explored.
@@ -70,14 +70,14 @@ Sentiment analysis was performed. A **Machine Learning** model was built to pred
 
 ![](/images/download6.png)
 
-### Project 6: Data gathering
+### Project 7: Data gathering
 [Publication](https://github.com/Mealygroup/data-science/blob/main/Data%20Gathering.....ipynb)
 
 Synthetic data was generated using the **python libraries**. The data was generated to build a recommender system model for an app and the purpose was well fulfilled.
 
 ![](/images/download4.png)
 
-### Project 7: IBM Employee Attribution
+### Project 8: IBM Employee Attribution
 [Publication](https://github.com/Damilare125/EDA-PROJECT/blob/main/IBM_Employee_Attribution.ipynb)
 
 I analyzed and derived insight from attrition data. Exploration data analysis was performed, and the insight of the attrition dataset was well explored.
