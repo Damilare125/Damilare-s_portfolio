@@ -32,6 +32,11 @@ Data Science professional with a proven track record of leveraging data and anal
 - Did a sentiment analysis on a skincare product review.
 
 ## Projects
+### Project 1: Sales Prediction
+[Publication](https://github.com/Damilare125/Damilare-s_portfolio/blob/main/images/Sales%20prediction%20slides.pdf)
+
+Activewear Inc. is experiencing steady growth, but forecasting sales remains a challenge. Inaccurate sales forecasts lead to inefficiencies in marketing budget allocation across media mix channels. A more reliable method to predict future sales was developed.
+
 ### Project 1: HR Analysis
 [Publication](https://github.com/Damilare125/Damilare-s_portfolio/blob/main/images/HR%20analysis%20slides.pdf)
 
