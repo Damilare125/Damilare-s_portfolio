@@ -6,8 +6,8 @@ Data Science professional with a proven track record of leveraging data and anal
 ## Technical skills: Python, R, EXCEL, SQL, NLP, PowerBi, Machine Learning, Recommendation System, Data wrangling, Seaborn, Tableau, Beautiful Soup, Data visualization, Sentiment Analysis
 
 ## Education
-- Certificate, Data Analytics Training | Data Techcon Academy (_December 2024_)
 - MSc, Data Science | University of Gloucestershire (_January 2026_)
+- Certificate, Data Analytics Training | Data Techcon Academy (_December 2024_)
 - Certificate, Data science | Stutern Graduate Accelerator (_August 2023_)
 - PGDE, Educational Foundation | Tai-solarin University of Education (_May 2023_)
 - BSc (_ed_), Chemistry | Tai-solarin University of Education (_May 2018_)
