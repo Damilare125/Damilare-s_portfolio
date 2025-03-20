@@ -34,6 +34,7 @@ Data Science professional with a proven track record of leveraging data and anal
 ## Projects
 ### Project 1: HR Analysis
 [Publication](https://github.com/Damilare125/Damilare-s_portfolio/blob/main/images/HR%20analysis%20slides.pdf)
+
 Gender equality, diversity, and demographics were understood and also the trend and pattern of the hiring process in the organization were well identified.
 
 ### Project 2: Sales Growth Through Sentiment Analysis
